@@ -1,0 +1,14 @@
+G:\study\c#\PhotoDairy\bin\Debug\PhotoDairy.exe.config
+G:\study\c#\PhotoDairy\bin\Debug\PhotoDairy.exe
+G:\study\c#\PhotoDairy\bin\Debug\PhotoDairy.pdb
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.csprojAssemblyReference.cache
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.EventCreate.resources
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.Properties.Resources.resources
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.csproj.GenerateResource.cache
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.csproj.CoreCompileInputs.cache
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.exe
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.pdb
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.Dashboard.resources
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.Login.resources
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.Profile.resources
+G:\study\c#\PhotoDairy\obj\Debug\PhotoDairy.SignUp.resources
